@@ -4,10 +4,12 @@ This is a personal finance application that allows users to link their bank acco
 
 Setup
 
-git clone https://github.com/jagodin/personal-finance-app
-cd personal-finance-app
-npm install
-npm run dev to run the development environment.
+1) git clone https://github.com/jagodin/personal-finance-app
+2) cd personal-finance-app
+3) npm install
+4) npm run dev to run the development environment.
+
+
 Obtain your Plaid API keys from here and set up a MongoDB database
 
 Configure ./config/default.json
