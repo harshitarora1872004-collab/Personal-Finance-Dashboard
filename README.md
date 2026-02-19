@@ -25,31 +25,31 @@ Configure ./config/default.json
 
 Technologies
 
-1)Node.js 
+1)  Node.js 
 
-2)React
+2)  React
 
-3)Redux
+3)  Redux
 
-4)MongoDB
+4)  MongoDB
 
-5)Express.js
+5)  Express.js
 
-6)Material UI
+6)  Material UI
 
 Packages
 
-1)Axios
+1)  Axios
 
-2)Express Validator
+2)  Express Validator
 
-3)JSON Web Token
+3)  JSON Web Token
 
-4)Redux Thunk
+4)  Redux Thunk
 
-5)Bcrypt.js
+5)  Bcrypt.js
 
-6)Mongoose
+6)  Mongoose
 
 Screenshots
 Login/Registration Page
@@ -68,14 +68,21 @@ Responsive Dashboard
 Future Enhancements
 
 Implement budgets and categorize transactions into appropriate budget.
+
 Add user settings (i.e. UI preferances).
+
 Give users the ability to report application issues via the Support page.
+
 Implement FAQ.
+
 Responsive UI enhancements.
+
 Implement cache to prevent user's from overloading the backend and Plaid API.
+
 Implement Google Firebase Authentication.
 
 Disclaimer
+
 Note that the application exposes the user's access_tokens and item_ids to the client. For production releases, these must be securely persisted to your database and never exposed to the client.
 
 From the Plaid API documentation:
