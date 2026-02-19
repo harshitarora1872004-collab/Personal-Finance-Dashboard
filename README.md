@@ -19,19 +19,29 @@ Configure ./config/default.json
 Technologies
 
 1)Node.js
+
 2)React
+
 3)Redux
+
 4)MongoDB
+
 5)Express.js
+
 6)Material UI
 
 Packages
 
 1)Axios
+
 2)Express Validator
+
 3)JSON Web Token
+
 4)Redux Thunk
+
 5)Bcrypt.js
+
 6)Mongoose
 
 Screenshots
