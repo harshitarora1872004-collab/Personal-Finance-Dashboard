@@ -26,15 +26,10 @@ Configure ./config/default.json
 Technologies
 
 1)Node.js
-
 2)React
-
 3)Redux
-
 4)MongoDB
-
 5)Express.js
-
 6)Material UI
 
 Packages
