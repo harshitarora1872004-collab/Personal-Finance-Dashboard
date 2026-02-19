@@ -48,6 +48,7 @@ Responsive Dashboard
 <img width="873" height="799" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/69c38682-7b0a-4573-9387-fcc8d7c95b27" />
 
 Future Enhancements
+
 Implement budgets and categorize transactions into appropriate budget.
 Add user settings (i.e. UI preferances).
 Give users the ability to report application issues via the Support page.
@@ -55,11 +56,11 @@ Implement FAQ.
 Responsive UI enhancements.
 Implement cache to prevent user's from overloading the backend and Plaid API.
 Implement Google Firebase Authentication.
+
 Disclaimer
 Note that the application exposes the user's access_tokens and item_ids to the client. For production releases, these must be securely persisted to your database and never exposed to the client.
 
 From the Plaid API documentation:
-
 access_tokens and item_ids are the core identifiers that map your end-users to their financial institutions. You should persist these securely and associate them with users of your application. Make sure, however, that these identifiers are never exposed client-side. Keep in mind that one user can create multiple Items if they have accounts with multiple financial institutions.
 
 
