@@ -81,7 +81,7 @@ Future Enhancements
 
 7)  Implement Google Firebase Authentication.
 
-Disclaimer -
+Disclaimer 
 
 Note that the application exposes the user's access_tokens and item_ids to the client. For production releases, these must be securely persisted to your database and never exposed to the client.
 
