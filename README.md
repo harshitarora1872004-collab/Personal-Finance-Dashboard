@@ -16,6 +16,8 @@ Configure ./config/default.json
     "mongoURI": "YOUR_MONGO_URI",
     "jwtSecret": "YOUR_SECRET_TOKEN"
 }
+
+
 Technologies
 
 1)Node.js
