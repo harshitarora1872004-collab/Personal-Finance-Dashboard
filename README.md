@@ -67,21 +67,21 @@ Responsive Dashboard
 
 Future Enhancements
 
-Implement budgets and categorize transactions into appropriate budget.
+1)  Implement budgets and categorize transactions into appropriate budget.
 
-Add user settings (i.e. UI preferances).
+2)  Add user settings (i.e. UI preferances).
 
-Give users the ability to report application issues via the Support page.
+3)  Give users the ability to report application issues via the Support page.
 
-Implement FAQ.
+4)  Implement FAQ.
 
-Responsive UI enhancements.
+5)  Responsive UI enhancements.
 
-Implement cache to prevent user's from overloading the backend and Plaid API.
+6)  Implement cache to prevent user's from overloading the backend and Plaid API.
 
-Implement Google Firebase Authentication.
+7)  Implement Google Firebase Authentication.
 
-Disclaimer
+Disclaimer -
 
 Note that the application exposes the user's access_tokens and item_ids to the client. For production releases, these must be securely persisted to your database and never exposed to the client.
 
